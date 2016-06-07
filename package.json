@@ -1,0 +1,37 @@
+{
+  "name": "simplemeanapp",
+  "version": "1.0.0",
+  "description": "Simple application to Add, Update, Remove, Search records list using MEAN stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chhunchha/contactlistmean.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Angular",
+    "mongo",
+    "Express",
+    "Node",
+    "Generalized for records",
+    "Simple MEAN App"
+  ],
+  "author": "Sumant Chhunchha (mr.chhunchha@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chhunchha/simplemeanapp/issues"
+  },
+  "homepage": "https://github.com/chhunchha/simplemeanapp#readme",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "body-parser": "^1.15.1",
+    "consolidate": "^0.14.1",
+    "express": "^4.13.4",
+    "mongodb": "^2.1.21",
+    "mongoose": "^4.4.20",
+    "nunjucks": "^2.4.2"
+  }
+}
